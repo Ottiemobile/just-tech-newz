@@ -4,4 +4,4 @@ router.get('/', (req, res) => {
     res.render('homepage');
 });
 
-module.eports = router;
+module.exports = router;
